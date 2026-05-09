@@ -1,0 +1,22 @@
+# Large directories
+rag-knowledge-base/
+edgame/
+data-analyst-demo/
+docs/
+
+# Temp files
+temp_vision_images/
+state/
+*.tmp
+
+# Sensitive files
+client_secret.json
+.openclaw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+test_*.json
+quotes.json
